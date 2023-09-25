@@ -1,0 +1,17 @@
+{
+    "name": "pham/xlsx-separator",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pham\\XlsxSeparator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pham The Anh",
+            "email": "admin@phamtheanh.eu"
+        }
+    ]
+}
